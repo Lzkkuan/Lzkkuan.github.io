@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
-        <subtitle></subtitle>
+        <title>Blog For Nobody</title>
+        <subtitle>HappyEveryday</subtitle>
         <icon>http://example.com/assets/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
-          <name>John Doe</name>
+          <name>lzkuan</name>
         </author>
-        <description></description>
-        <language>en</language>
+        <description>A blog for everything</description>
+        <language>cn</language>
         <pubDate>Wed, 12 Jun 2024 16:42:47 +0800</pubDate>
         <lastBuildDate>Wed, 12 Jun 2024 16:42:47 +0800</lastBuildDate>
         <item>

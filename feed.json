@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
-    "subtitle": "",
+    "title": "Blog For Nobody",
+    "subtitle": "HappyEveryday",
     "icon": "http://example.com/assets/favicon.ico",
-    "description": "",
+    "description": "A blog for everything",
     "home_page_url": "http://example.com",
     "items": [
         {
