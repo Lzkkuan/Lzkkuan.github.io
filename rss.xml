@@ -10,13 +10,81 @@
         </author>
         <description>A blog for everything</description>
         <language>en</language>
-        <pubDate>Sun, 16 Jun 2024 17:32:02 +0800</pubDate>
-        <lastBuildDate>Sun, 16 Jun 2024 17:32:02 +0800</lastBuildDate>
+        <pubDate>Mon, 17 Jun 2024 20:19:39 +0800</pubDate>
+        <lastBuildDate>Mon, 17 Jun 2024 20:19:39 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/06/17/%E4%B8%93%E4%B8%9A%E7%AE%80%E8%BF%B0/</guid>
+            <title>专业简述</title>
+            <link>http://example.com/2024/06/17/%E4%B8%93%E4%B8%9A%E7%AE%80%E8%BF%B0/</link>
+            <category term="专业" scheme="http://example.com/categories/%E4%B8%93%E4%B8%9A/" />
+            <category term="CS，专业" scheme="http://example.com/tags/CS%EF%BC%8C%E4%B8%93%E4%B8%9A/" />
+            <pubDate>Mon, 17 Jun 2024 20:19:39 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;我的专业是&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我的专业是&#34;&gt;#&lt;/a&gt; 我的专业是&lt;/h1&gt;
+&lt;p&gt;CS，全称 computer science，以前是 CEG 孤儿&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://example.com/2024/06/17/%E9%9F%B3%E4%B9%90%E5%89%A7%E5%B0%8Frepo%E6%B1%87%E6%80%BB/</guid>
+            <title>音乐剧小repo汇总</title>
+            <link>http://example.com/2024/06/17/%E9%9F%B3%E4%B9%90%E5%89%A7%E5%B0%8Frepo%E6%B1%87%E6%80%BB/</link>
+            <category term="艺术 - 音乐剧" scheme="http://example.com/categories/%E8%89%BA%E6%9C%AF-%E9%9F%B3%E4%B9%90%E5%89%A7/" />
+            <category term="艺术，音乐，音乐剧" scheme="http://example.com/tags/%E8%89%BA%E6%9C%AF%EF%BC%8C%E9%9F%B3%E4%B9%90%EF%BC%8C%E9%9F%B3%E4%B9%90%E5%89%A7/" />
+            <pubDate>Mon, 17 Jun 2024 18:19:04 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;音乐剧小repo汇总合集&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#音乐剧小repo汇总合集&#34;&gt;#&lt;/a&gt; 音乐剧小 repo 汇总合集&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;记录看过的所有剧目&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;hamilton&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hamilton&#34;&gt;#&lt;/a&gt; Hamilton&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;卡司：&lt;/strong&gt; 2024 亚巡 A 卡&lt;br /&gt;
+&lt;strong&gt;时间：&lt;/strong&gt; 24.05.05&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;成熟的百老汇舞台，有趣的唱段&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;走入剧场之前其实有点忐忑。前一两天的演出因为演员们的集体生病（据说庆功宴吃坏了肚子，新加坡十恶不赦）而全上 B 卡，且演员们个个不在状态，导致风评急转直下。万幸的是，这一场终于上了休养生息后蓄势待发的 A 卡。大家的整体表现都不错，更是首次听到了唱准音的 hamilton（讲真，修复了 LMM 音不准气不足的 bug，还真少了点感觉）。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://ooo.0x0.ooo/2024/06/17/OPq5pK.jpg&#34; alt=&#34;OPq5pK.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这台剧的剧情与很多片段都有点过于熟悉了，称不上惊喜感，但现场的感染力还是相当不错。也许是因为已经比较了解，坐在现场观看的时候会有点不自觉地放大一些小问题。对我自己而言，第二幕的制作和演绎都是少点味道的。第一幕的剧情以快节奏的战斗、辩论为主，整体氛围比较诙谐、外放。这样的剧情、氛围和 hiphop 整体的风格搭的很好，也和《Hamilton》中以快嘴和 talk flow 为主的说唱风格相配。这一幕有开场曲，guns and ships, my shot 等等充分带起情绪，也有流口水歌，The Story of Tonight 这些用简单明快的旋律感染听众的，可以说是封神级的。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://ooo.0x0.ooo/2024/06/17/OPqBfa.jpg&#34; alt=&#34;OPqBfa.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;然而，转进第二幕后，剧情更多聚焦在 hamilton 自己的矛盾上，工作与家庭的矛盾，自己和政敌的矛盾，等等，整体情绪是相对暗色调和内敛的。这时的配乐，更需要层层递进地编曲、细腻的词曲这些来解剖人物，打动观众。而剧中只有编曲，但词曲没跟上，这确实也是 LMM 写 / 唱上没那么擅长的。当我观看时，会感觉一轨一轨不断叠加的伴奏有点压住了并不十分动人也不算高亢的旋律（常常几个单音、长音在中音区徘徊），而当伴奏到一切霎那间寂静时我也不太会感觉到情绪的突进与那种暗潮涌动的平静，有点带入不进去。这或许是一个小遗憾。&lt;/p&gt;
+&lt;p&gt;当然，这是有点鸡蛋里挑骨头的味道。 Hamilton 无论是剧情、音乐还是舞台设计，可以看出都已经在不断的演出中打磨的相当成熟精致，值得观看。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;人间失格&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#人间失格&#34;&gt;#&lt;/a&gt; 人间失格&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;我想对世间求爱，可现实很冰凉，一次一次将我埋葬&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;卡司:&lt;/strong&gt; 白举纲 - 太宰治 | 刘令飞 - 大庭叶藏 | 张沁丹 | 李炜铃 | 张玮伦&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;合格合理的剧情改编，国内顶尖的配乐、词曲水平，优秀的演技唱功加持。&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;剧情&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#剧情&#34;&gt;#&lt;/a&gt; 剧情&lt;/h3&gt;
+&lt;p&gt;观看剧目之前，对人间失格的改编有一定的担忧。好久好久以前看过原著的我依稀记得，书中大部分的情节、内容都是靠叶藏自己的内心独白推进。这对于改编成剧目而言是一个不小的挑战。此外，叶藏本人的苦难与痛苦很大程度上也来自于他自己的懦弱、多疑、放纵与自私。这个逐渐失格、逐渐瓦解的人生，是叶藏或书桌后的太宰治自己内心的矛盾纠缠与外部矛盾如家族、社会的合力。叶藏不是一个好人，也得不到我发自内心的同情与惋惜，却能将我带进这个逐渐崩溃、袅无生机的世界，去体悟这种纠缠的无奈和痛苦。&lt;/p&gt;
+&lt;p&gt;此外，叶藏丰富的经历也使得剧目的体量需要仔细斟酌。每一个角色的删减都有可能造成他人物转变，行为动机的不合理。&lt;/p&gt;
+&lt;p&gt;这样复杂而矛盾的作品与人物改编后搬上了舞台。相比原著，绝大部分角色确实更加脸谱化了一些。叶藏不再装疯卖傻，而是专心做爱画画的 i 人。他在家族中若即若离的边缘化地位也被改编成排斥和不承认。叶藏本人的性格也删去了放纵自私的那一面，留下了懦弱和多疑。对我而言，这样的改编是合理的，因为舞台不像电视剧一样有充足的时间和镜头交代人物刻画细节。一定程度上的弱化使得我更容易走进剧目中的东京。而叶藏一定程度上的洗白也让我更容易被剧目、歌曲代入、打动，而非边看边在心理排斥、批判主角。除此之外一些细节和情节的改编个人认为基本都很合理，很容易走进去，不会让人感觉出戏难解（看完以后唯一的槽点可能是加入他救恒子的剧情，因为这和后面对祝子的冷眼旁观有点冲）。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://ooo.0x0.ooo/2024/06/12/OJuO4S.webp&#34; alt=&#34;OJuO4S.webp&#34; /&gt;&lt;/p&gt;
+&lt;h3 id=&#34;音乐现场&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#音乐现场&#34;&gt;#&lt;/a&gt; 音乐现场&lt;/h3&gt;
+&lt;p&gt;过关的剧情改编保证了人间失格的下限，而野角先生的曲，优秀的词和演员们的唱演直接将现场拉满了。最震撼最突出的部分是第一幕末尾和第二幕开幕不久。&lt;/p&gt;
+&lt;p&gt;第一幕开始，不同矛盾就层层叠加。家庭、社会排挤、爱情、金钱、地位、自己的身份和真实性，直至到第一幕末尾，当矛盾与绝望积累到顶点，太宰治的叹息与书中男女主的决绝和无奈交融，从而爆发出《夏季花火》《生与死》与《坠入大海的尘埃》中震撼人心的呐喊与哭诉。这种震撼在现场，表现在经过钢琴和低音鼓组的铺垫后，电吉他、管弦的层层叠加及至顶峰，表现在演员从叹息到绝望的诠释与现场歌声的穿透力感染力，也表现在绝望尽头无可奈何、一切呐喊终究坠入海底、消饵于无形的剧情走向。第二幕的开场是叶藏在低谷处与祝子的邂逅。重点表扬祝子同学！从初识时美好而天真的《夜幕降临的时刻》到绝望的《天真罪》，炜铃将这种从纯真一步步滑入深渊的绝望通过无敌的演技和细腻的唱功，一步步 “把美好的东西毁灭给人看”。看的时候泪流满面，原地圈粉。&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://ooo.0x0.ooo/2024/06/17/OPqa8B.jpg&#34; alt=&#34;OPqa8B.jpg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;除了这两段以外，叶藏刚到东京时描绘东京众生相的《东京百景》，叶藏被撅的《采花》（老大哥名言：剧组每个人都最想当老女仆）等等唱段，都在好听、精彩的同时做到了衔接、推进剧情，将我带进了这个故事，毫无割裂感。两位主角的发挥上，在观看之前，确实也会对小白的唱功演技那些有一点疑虑（毕竟看了一些 repo 感觉有点不妙），但看完感觉进步不小，整体表现还不错。刘令飞老师更是稳定发挥。虽然长得有点太宰的邪气，但肩膀一垮脑袋一耷拉，整个人就是叶藏丧丧的气质。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;总结：好看，爱看，以后有机会还看&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;返场&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#返场&#34;&gt;#&lt;/a&gt; 返场&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV1o9VJeyEzd/?share_source=copy_web&amp;amp;vd_source=51af7fc9f7fd73471bdd57057f742bc0&#34;&gt;https://www.bilibili.com/video/BV1o9VJeyEzd/?share_source=copy_web&amp;amp;vd_source=51af7fc9f7fd73471bdd57057f742bc0&lt;/a&gt;&lt;br /&gt;
+&lt;em&gt;&lt;strong&gt;【人间失格 - 240531 返场谢幕】&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;丽兹-lizzie&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#丽兹-lizzie&#34;&gt;#&lt;/a&gt; 丽兹 Lizzie&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;matilda&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#matilda&#34;&gt;#&lt;/a&gt; Matilda&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;灯塔-light-keeper&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#灯塔-light-keeper&#34;&gt;#&lt;/a&gt; 灯塔 Light Keeper&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;摇滚太白诗与星&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#摇滚太白诗与星&#34;&gt;#&lt;/a&gt; 摇滚太白：诗与星&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;德米安&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#德米安&#34;&gt;#&lt;/a&gt; 德米安&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;基督山伯爵&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#基督山伯爵&#34;&gt;#&lt;/a&gt; 基督山伯爵&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;雄狮少年&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#雄狮少年&#34;&gt;#&lt;/a&gt; 雄狮少年&lt;/h2&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#&#34;&gt;#&lt;/a&gt; &lt;/h2&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">http://example.com/2024/06/16/%E6%9B%BF%E7%BD%AA%E7%BE%8A%E4%B8%8E%E5%8F%97%E5%AE%B3%E8%80%85/</guid>
             <title>替罪羊与受害者</title>
             <link>http://example.com/2024/06/16/%E6%9B%BF%E7%BD%AA%E7%BE%8A%E4%B8%8E%E5%8F%97%E5%AE%B3%E8%80%85/</link>
-            <category term="人文社科" scheme="http://example.com/categories/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/" />
+            <category term="人文社科 - 心理 &amp; 社科" scheme="http://example.com/categories/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91-%E5%BF%83%E7%90%86-%E7%A4%BE%E7%A7%91/" />
             <category term="人文社科" scheme="http://example.com/tags/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/" />
             <category term="心理学" scheme="http://example.com/tags/%E5%BF%83%E7%90%86%E5%AD%A6/" />
             <pubDate>Sun, 16 Jun 2024 17:32:02 +0800</pubDate>
@@ -55,7 +123,7 @@
             <guid isPermalink="true">http://example.com/2024/06/15/%E6%98%8E%E5%9B%9E%E9%A1%BE%EF%BC%9A%E7%9F%9B%E7%9B%BE%E4%B8%8E%E6%9D%83%E8%A1%A1%EF%BC%88hexo%E6%A0%BC%E5%BC%8F%E8%AE%BE%E7%BD%AE%E8%AF%95%E7%82%B9%EF%BC%89/</guid>
             <title>明回顾：矛盾与权衡（hexo格式设置试点)</title>
             <link>http://example.com/2024/06/15/%E6%98%8E%E5%9B%9E%E9%A1%BE%EF%BC%9A%E7%9F%9B%E7%9B%BE%E4%B8%8E%E6%9D%83%E8%A1%A1%EF%BC%88hexo%E6%A0%BC%E5%BC%8F%E8%AE%BE%E7%BD%AE%E8%AF%95%E7%82%B9%EF%BC%89/</link>
-            <category term="人文社科" scheme="http://example.com/categories/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/" />
+            <category term="人文社科 - 历史" scheme="http://example.com/categories/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91-%E5%8E%86%E5%8F%B2/" />
             <category term="人文社科" scheme="http://example.com/tags/%E4%BA%BA%E6%96%87%E7%A4%BE%E7%A7%91/" />
             <category term="历史" scheme="http://example.com/tags/%E5%8E%86%E5%8F%B2/" />
             <pubDate>Sat, 15 Jun 2024 21:15:44 +0800</pubDate>
