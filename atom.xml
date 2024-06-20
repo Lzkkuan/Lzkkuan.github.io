@@ -8,7 +8,39 @@
     <author>
       <name>lzkuan</name>
     </author>
-    <updated>2024-06-17T12:19:39.000Z</updated>
+    <updated>2024-06-20T17:58:54.000Z</updated>
+    <entry>
+        <id>http://example.com/2024/06/21/%E5%BE%85%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/</id>
+        <title>待解决问题</title>
+        <link rel="alternate" href="http://example.com/2024/06/21/%E5%BE%85%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
+        <content type="html">&lt;h1 id=&#34;hexo-blog待解决问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-blog待解决问题&#34;&gt;#&lt;/a&gt; hexo blog 待解决问题&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;文章基础信息格式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;categories 界面格式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;图片轮播设置与封面的固定&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网站顶栏标题的设置&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;左上角域名字体设置&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;翻页大类设置&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;专业内容整理上传&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="专业" scheme="http://example.com/categories/%E4%B8%93%E4%B8%9A/" />
+        <updated>2024-06-20T17:58:54.000Z</updated>
+    </entry>
     <entry>
         <id>http://example.com/2024/06/17/%E4%B8%93%E4%B8%9A%E7%AE%80%E8%BF%B0/</id>
         <title>专业简述</title>

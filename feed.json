@@ -7,6 +7,16 @@
     "home_page_url": "http://example.com",
     "items": [
         {
+            "id": "http://example.com/2024/06/21/%E5%BE%85%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/",
+            "url": "http://example.com/2024/06/21/%E5%BE%85%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/",
+            "title": "待解决问题",
+            "date_published": "2024-06-20T17:58:54.000Z",
+            "content_html": "<h1 id=\"hexo-blog待解决问题\"><a class=\"anchor\" href=\"#hexo-blog待解决问题\">#</a> hexo blog 待解决问题</h1>\n<ul>\n<li>\n<p>文章基础信息格式</p>\n</li>\n<li>\n<p>categories 界面格式</p>\n</li>\n<li>\n<p>图片轮播设置与封面的固定</p>\n</li>\n<li>\n<p>网站顶栏标题的设置</p>\n</li>\n<li>\n<p>左上角域名字体设置</p>\n</li>\n<li>\n<p>翻页大类设置</p>\n</li>\n<li>\n<p>专业内容整理上传</p>\n</li>\n</ul>\n",
+            "tags": [
+                "专业"
+            ]
+        },
+        {
             "id": "http://example.com/2024/06/17/%E4%B8%93%E4%B8%9A%E7%AE%80%E8%BF%B0/",
             "url": "http://example.com/2024/06/17/%E4%B8%93%E4%B8%9A%E7%AE%80%E8%BF%B0/",
             "title": "专业简述",
