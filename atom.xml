@@ -8,11 +8,195 @@
     <author>
       <name>lzkuan</name>
     </author>
-    <updated>2024-06-20T17:58:54.000Z</updated>
+    <updated>2024-08-08T07:01:15.000Z</updated>
     <entry>
-        <id>http://example.com/2024/06/21/%E5%BE%85%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/</id>
+        <id>http://example.com/2024/08/08/Major/Dark%20Web/the-dark-web/</id>
+        <title>Dark Web</title>
+        <link rel="alternate" href="http://example.com/2024/08/08/Major/Dark%20Web/the-dark-web/"/>
+        <content type="html">&lt;h1 id=&#34;the-dark-web&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-dark-web&#34;&gt;#&lt;/a&gt; The Dark Web&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;A very basic intro and setup guide of the dark web based on Tor&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;at-the-very-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#at-the-very-start&#34;&gt;#&lt;/a&gt; At the very start...&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;This article is just a guide and introduction of what the dark web is and how do we get basic access to this proportion of the internet. No illegal purposes are allowed and it is completely not encouraged to access any dangerous or even illegal websites in the dark web. Keeps your eyes bright and stay away from anything dirty.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/HiaZzDc3BdU7CqL.png&#34; alt=&#34;legality.png&#34; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;three-layers-of-the-internet&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#three-layers-of-the-internet&#34;&gt;#&lt;/a&gt; Three Layers of the Internet&lt;/h2&gt;
+&lt;p&gt;The internet is often conceptualized in three distinct layers: the &lt;em&gt;&lt;strong&gt;surface web&lt;/strong&gt;&lt;/em&gt;, the &lt;em&gt;&lt;strong&gt;deep web&lt;/strong&gt;&lt;/em&gt;, and the &lt;em&gt;&lt;strong&gt;dark web&lt;/strong&gt;&lt;/em&gt;, each with unique characteristics and functions.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/ePLNM2pfX41uRwj.webp&#34; alt=&#34;Web-layer.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;&lt;strong&gt;surface web&lt;/strong&gt;&lt;/em&gt;, the most familiar layer, includes all websites indexed by search engines like Google, Bing, and Yahoo. It consists of publicly accessible content such as news sites, social media platforms, blogs, and e-commerce sites. This layer is user-friendly and forms a small fraction of the total internet content, despite its extensive daily use.&lt;/p&gt;
+&lt;p&gt;Beneath the surface web lies the &lt;em&gt;&lt;strong&gt;deep web&lt;/strong&gt;&lt;/em&gt;, a vast expanse of data not indexed by standard search engines. It includes private databases, academic resources, medical records, and subscription-based content. Access often requires specific credentials or permissions, such as account login. Interestingly, the deep web comprises about 90% of the entire internet, underscoring its immense scale and importance.&lt;/p&gt;
+&lt;p&gt;The &lt;em&gt;&lt;strong&gt;dark web&lt;/strong&gt;&lt;/em&gt;, the innermost layer, is a subset of the deep web accessible only through specialized browsers like Tor. This layer is notorious for its anonymity and privacy. The dark web provides a secure platform for free expression, confidential communication and the exchange of information that can be critical for privacy concern or even personal safety. However, its privacy also makes it associated with illegal activities, such as drug trafficking, illegal arms sales, and cybercrime.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/gFOLiEow8JyDPsp.png&#34; alt=&#34;I2P-vs-Tor.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Within the dark web, internet services are provided on a variety of specialized networks, such as Tor and I2P. This article will focus on the dark web established using Tor.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;the-tor-network&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-tor-network&#34;&gt;#&lt;/a&gt; The Tor Network&lt;/h2&gt;
+&lt;h3 id=&#34;overview&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#overview&#34;&gt;#&lt;/a&gt; Overview&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Tor, the renowned privacy-focused network, operates as a sophisticated mixnet to protect users&#39; anonymity. At its core, Tor utilizes a global network of volunteer-operated nodes (currently 11362 nodes listed) to secure internet communications.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/noZzsQtlfGygv6V.png&#34; alt=&#34;Tor-logo-2011-flat.svg.png&#34; /&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;structure&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#structure&#34;&gt;#&lt;/a&gt; Structure&lt;/h3&gt;
+&lt;p&gt;In the tor internet, various .onion sites are set up. These websites live completely in the tor web and usually have a long &amp;amp; random link so that you can&#39;t easily find it.&lt;/p&gt;
+&lt;p&gt;When a user connects to a website through Tor, the user&#39;s data is routed through a series of three randomly selected nodes, creating a virtual encrypted tunnel. This tunnel safeguards the user&#39;s identity by concealing their IP address from the destination server. The request made by the user travels through these nodes, and the response is routed back through the same encrypted path, ensuring that the server never sees the user&#39;s IP address.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/SEfdvQ4y6B1u8cz.png&#34; alt=&#34;tor.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;The Tor network comprises three types of nodes: Guard nodes, middle nodes (or relays), and exit nodes, each serving a distinct function. Guard nodes are the first point of entry into the Tor network. They are selected infrequently to reduce the risk of attackers deducing a user&#39;s IP address. Middle nodes, or relays, act as intermediaries, preventing direct correlation between the initial and final nodes. Finally, exit nodes represent the last segment of the encrypted tunnel, connecting users to the public internet or clearnet. These nodes handle a high volume of requests, retrieving data from websites and delivering it back to users while maintaining the confidentiality of their IP addresses.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;how-is-an-internet-service-transmitted&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#how-is-an-internet-service-transmitted&#34;&gt;#&lt;/a&gt; How is an internet service transmitted&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/mi3RF81BGxyKewO.webp&#34; alt=&#34;Tor-tunnel.webp&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;When the user request for a certain Internet service, the local tor browser will add three layers of encryption onto the information, so that the local service provide (ISP) has no idea what you are asking for. The encrypted information will then be sent to the guard node, or the entry node, which decrypts the first layer of the encryption. The information will then be sent from the guard node to the middle nodes, which again decrypts another layer. The exit node will then receive the information (1 layer encrypted), decrypt it to see the request and connect to the broader clearnet for the content. The exit node will then send your service back along the tunnel, reversing the encrytion-decryption sequence, before your computer receives information and unlocks them for access.&lt;/p&gt;
+&lt;p&gt;Just like an onion has multiple layers, the Tor network uses multiple layers of encryption. Each layer is decrypted at a different node, revealing the next layer, akin to peeling away layers of an onion. Therefore, tor network is also called as onion network, and the encryption process is also called onion routing.&lt;/p&gt;
+&lt;p&gt;In this entire process, what does each node knows?&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Node&lt;/th&gt;
+&lt;th&gt;Info collected&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Entry&lt;/td&gt;
+&lt;td&gt;Your IP address, the middle node&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Middle Node&lt;/td&gt;
+&lt;td&gt;Entry and Exit node&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Exit Node&lt;/td&gt;
+&lt;td&gt;Detail of your Internet service&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;None of the nodes handled all your information, making the internet access encrypted and protected.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;tor-browser-setup&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#tor-browser-setup&#34;&gt;#&lt;/a&gt; Tor Browser Setup&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Access to The Tor Internet is simple. By downloading the Tor brower, which is actually a modified version of firefox, you can get direct access to the Tor network.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;installation&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#installation&#34;&gt;#&lt;/a&gt; Installation&lt;/h3&gt;
+&lt;p&gt;The official link for Tor browser is &lt;a href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&#34;&gt;TorProject Website&lt;/a&gt;, or you can use &lt;a href=&#34;www.torproject.org/download&#34;&gt;the link&lt;/a&gt; alternatively.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/pyICeRiXV3fEb8L.png&#34; alt=&#34;download.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;Open the .exe file and install the browser wherever you like. You have direct access to the dark web now.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;safety-tips&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#safety-tips&#34;&gt;#&lt;/a&gt; Safety Tips&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Be very careful on dark web, especially if visiting some untrusted websites. Do not click into any untrusted links or scan their QR codes. There are far more hackers than you can imagine, and nobody but you can protect your privacy.&lt;/strong&gt;&lt;/p&gt;
+&lt;h4 id=&#34;safety-settings&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#safety-settings&#34;&gt;#&lt;/a&gt; Safety Settings&lt;/h4&gt;
+&lt;p&gt;Navigate to &lt;strong&gt;Settings - Privacy &amp;amp; Security&lt;/strong&gt;, and scroll down to find Security settings.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Choose the &lt;strong&gt;safest&lt;/strong&gt; option in &lt;strong&gt;security level&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/4Z3lGiWrS5pF9eH.png&#34; alt=&#34;security-level.png&#34; /&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Scroll down to turn on the &lt;strong&gt;Deceptive Content and Dangerous Software Protection&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/LSfbx8RoiXYAJHG.png&#34; alt=&#34;security-setting.png&#34; /&gt;&lt;/p&gt;
+&lt;h4 id=&#34;vpn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#vpn&#34;&gt;#&lt;/a&gt; VPN&lt;/h4&gt;
+&lt;p&gt;If you are visiting something potentially not allowed, using a VPN would help hide your IP from ISP and entry node. But remember, all potentially dangerous and illegal contents are not encouraged and should not be visited!&lt;/p&gt;
+&lt;p&gt;Personally, I would recommend this one for its convenience and easy access: &lt;a href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&#34;&gt;CONnectVPN&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;navigation-guidance&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#navigation-guidance&#34;&gt;#&lt;/a&gt; Navigation Guidance&lt;/h3&gt;
+&lt;h4 id=&#34;overall&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#overall&#34;&gt;#&lt;/a&gt; Overall&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Open the browser and click connect to get connected to the tor web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/QvnN5MKVEzsZFhe.png&#34; alt=&#34;connect.png&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If the connection is successful, you&#39;ll enter the home page of the tor brower.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/9hyZigFjqHbSVG2.png&#34; alt=&#34;home.png&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The default search engine is DuckDuckGo, which DOES NOT focus on .onion sites. The search result is just what you would normally find in google, and you can visit nearly every website in the surface web anonymously here.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; data-src=&#34;https://s2.loli.net/2024/08/08/DtU4JC9beLTySAp.png&#34; alt=&#34;search.png&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you wants to explore deeper into the .onion sites in Tor, there are 2 methods suggested, namely .onion search engines and the hidden wiki.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;search-engines&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#search-engines&#34;&gt;#&lt;/a&gt; Search Engines&lt;/h4&gt;
+&lt;p&gt;There are various search engines focuing on .onion sites ONLY. Typical Search Engines include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://Ahmia.fi&#34;&gt;Ahmia.fi&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;One of a small number of dark web search engines that allow users to access the dark web, and it has been praised for making this otherwise hidden part of the internet more accessible. (The link is itself)&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Haystack&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The search engine claims to have indexed over 1.5 billion pages which includes more than 260,000 websites, Haystak indeed would stand out to be a resourceful engine on the list. The onion link is:&lt;br /&gt;
+&lt;a href=&#34;http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/&#34;&gt;http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Torch&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Torch is one of those dark web search engines that have lasted for long enough (since 1996). Torch, like other search engines, crawls these addresses and indexes their content, making it searchable for users. It is fast and can come in handy. The onion link is:&lt;br /&gt;
+&lt;a href=&#34;http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/&#34;&gt;http://torchdeedp3i2jigzjdmfpn5ttjhthh5wbmda2rr3jvqjg5p77c54dqd.onion/&lt;/a&gt;&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Deep Search&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Deep Search is a search engine for the dark web. It is designed to index and search onionspace, the hidden services portion of the Tor network. DeepSearch is open-source and available for anyone to use. The onion link is:&lt;br /&gt;
+&lt;a href=&#34;http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/&#34;&gt;http://search7tdrcvri22rieiwgi5g46qnwsesvnubqav2xakhezv4hjzkkad.onion/&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;the-hidden-wiki&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#the-hidden-wiki&#34;&gt;#&lt;/a&gt; The Hidden Wiki&lt;/h4&gt;
+&lt;p&gt;The hidden wiki is an unofficial website that collects and lists active .onion sites for different purposes. Note that the links may be dangerous or phishing links since appearing on the wiki does not guarantee its safety.&lt;/p&gt;
+&lt;p&gt;There are various versions of hidden wikis, and these are the most comprehensive and trending ones:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;the 2024 version of &lt;strong&gt;hidden wiki&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&#34;http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page&#34;&gt;http://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;TorLinks&lt;/strong&gt; | .onion link list:&lt;br /&gt;
+&lt;a href=&#34;http://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion/&#34;&gt;http://torlinksge6enmcyyuxjpjkoouw4oorgdgeo7ftnq3zodj7g2zxi3kyd.onion/&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;dark.fail&lt;/strong&gt; (This is the link itself)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#conclusion&#34;&gt;#&lt;/a&gt; Conclusion&lt;/h2&gt;
+&lt;p&gt;No conclusion, this is it. If you want to know more about dark web, you can watch &lt;a href=&#34;https://www.youtube.com/watch?v=dQw4w9WgXcQ&#34;&gt;this&lt;/a&gt; for a more detailed guidance, which may answer your questions.&lt;/p&gt;
+</content>
+        <category term="专业" scheme="http://example.com/categories/Major/" />
+        <category term="Internet" scheme="http://example.com/tags/Internet/" />
+        <updated>2024-08-08T07:01:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2024/06/21/Major/Unity%E7%AC%94%E8%AE%B0/</id>
+        <title>Unity笔记</title>
+        <link rel="alternate" href="http://example.com/2024/06/21/Major/Unity%E7%AC%94%E8%AE%B0/"/>
+        <content type="html">&lt;h3 id=&#34;basic-idea&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#basic-idea&#34;&gt;#&lt;/a&gt; Basic Idea&lt;/h3&gt;
+&lt;p&gt;Dragging objects/prefabs into the scene and adding components/scripts to achieve various game rules and functions&lt;/p&gt;
+&lt;h3 id=&#34;menu-layout&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#menu-layout&#34;&gt;#&lt;/a&gt; Menu Layout&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Scene: Customize objects&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Game: Main camera. Can be adjusted by customizing main camera and setting the size of the window&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Inspector: Details of a chosen object&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Project: A list of the local repo. Source of all basic materials&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hierarchy: A list of all game objects in the chosen scene&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;git-related&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#git-related&#34;&gt;#&lt;/a&gt; Git related&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Basic Rule: Don&#39;t work directly on the main scene. Use local dev scenes(included in .gitignore) to experiment basic features, before merging into the main scene. (Reason: It is VERY HARD to merge scene files)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Repo setup: basic git setup process&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="专业" scheme="http://example.com/categories/Major/" />
+        <category term="Unity" scheme="http://example.com/tags/Unity/" />
+        <updated>2024-06-21T08:58:55.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://example.com/2024/06/21/Major/%E5%BE%85%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/</id>
         <title>待解决问题</title>
-        <link rel="alternate" href="http://example.com/2024/06/21/%E5%BE%85%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
+        <link rel="alternate" href="http://example.com/2024/06/21/Major/%E5%BE%85%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98/"/>
         <content type="html">&lt;h1 id=&#34;hexo-blog待解决问题&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hexo-blog待解决问题&#34;&gt;#&lt;/a&gt; hexo blog 待解决问题&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -38,25 +222,25 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 </content>
-        <category term="专业" scheme="http://example.com/categories/%E4%B8%93%E4%B8%9A/" />
+        <category term="专业" scheme="http://example.com/categories/Major/" />
         <updated>2024-06-20T17:58:54.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/06/17/%E4%B8%93%E4%B8%9A%E7%AE%80%E8%BF%B0/</id>
+        <id>http://example.com/2024/06/17/Major/CS/%E4%B8%93%E4%B8%9A%E7%AE%80%E8%BF%B0/</id>
         <title>专业简述</title>
-        <link rel="alternate" href="http://example.com/2024/06/17/%E4%B8%93%E4%B8%9A%E7%AE%80%E8%BF%B0/"/>
+        <link rel="alternate" href="http://example.com/2024/06/17/Major/CS/%E4%B8%93%E4%B8%9A%E7%AE%80%E8%BF%B0/"/>
         <content type="html">&lt;h1 id=&#34;我的专业是&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#我的专业是&#34;&gt;#&lt;/a&gt; 我的专业是&lt;/h1&gt;
 &lt;p&gt;CS，全称 computer science，以前是 CEG 孤儿&lt;/p&gt;
 </content>
-        <category term="专业" scheme="http://example.com/categories/%E4%B8%93%E4%B8%9A/" />
+        <category term="专业" scheme="http://example.com/categories/Major/" />
         <category term="CS" scheme="http://example.com/tags/CS/" />
         <category term="专业" scheme="http://example.com/tags/%E4%B8%93%E4%B8%9A/" />
         <updated>2024-06-17T12:19:39.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/06/17/%E9%9F%B3%E4%B9%90%E5%89%A7repo%E6%B1%87%E6%80%BB/</id>
+        <id>http://example.com/2024/06/17/Musical/%E9%9F%B3%E4%B9%90%E5%89%A7repo%E6%B1%87%E6%80%BB/</id>
         <title>音乐剧repo汇总</title>
-        <link rel="alternate" href="http://example.com/2024/06/17/%E9%9F%B3%E4%B9%90%E5%89%A7repo%E6%B1%87%E6%80%BB/"/>
+        <link rel="alternate" href="http://example.com/2024/06/17/Musical/%E9%9F%B3%E4%B9%90%E5%89%A7repo%E6%B1%87%E6%80%BB/"/>
         <content type="html">&lt;h1 id=&#34;音乐剧repo汇总合集&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#音乐剧repo汇总合集&#34;&gt;#&lt;/a&gt; 音乐剧 repo 汇总 / 合集&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;记录看过的所有剧目&lt;/strong&gt;&lt;/p&gt;
 &lt;hr /&gt;
@@ -195,9 +379,9 @@
         <updated>2024-06-17T10:19:04.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/06/16/%E6%9B%BF%E7%BD%AA%E7%BE%8A%E4%B8%8E%E5%8F%97%E5%AE%B3%E8%80%85/</id>
+        <id>http://example.com/2024/06/16/Psych/%E6%9B%BF%E7%BD%AA%E7%BE%8A%E4%B8%8E%E5%8F%97%E5%AE%B3%E8%80%85/</id>
         <title>替罪羊与受害者</title>
-        <link rel="alternate" href="http://example.com/2024/06/16/%E6%9B%BF%E7%BD%AA%E7%BE%8A%E4%B8%8E%E5%8F%97%E5%AE%B3%E8%80%85/"/>
+        <link rel="alternate" href="http://example.com/2024/06/16/Psych/%E6%9B%BF%E7%BD%AA%E7%BE%8A%E4%B8%8E%E5%8F%97%E5%AE%B3%E8%80%85/"/>
         <content type="html">&lt;h1 id=&#34;替罪羊与受害者&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#替罪羊与受害者&#34;&gt;#&lt;/a&gt; 替罪羊与受害者&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;分离型身份障碍的笔记、记录与思考&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;分离性身份障碍，也称多重人格障碍，是指一种戏剧性的解离性障碍，在这种障碍中患者显示出两种或更多的不同的身份或人格状态，交替以某种方式控制患者的行为&lt;/strong&gt;&lt;/p&gt;
@@ -234,9 +418,9 @@
         <updated>2024-06-16T09:32:02.000Z</updated>
     </entry>
     <entry>
-        <id>http://example.com/2024/06/15/%E6%98%8E%E5%9B%9E%E9%A1%BE%EF%BC%9A%E7%9F%9B%E7%9B%BE%E4%B8%8E%E6%9D%83%E8%A1%A1%EF%BC%88hexo%E6%A0%BC%E5%BC%8F%E8%AE%BE%E7%BD%AE%E8%AF%95%E7%82%B9%EF%BC%89/</id>
+        <id>http://example.com/2024/06/15/History/%E6%98%8E%E5%9B%9E%E9%A1%BE%EF%BC%9A%E7%9F%9B%E7%9B%BE%E4%B8%8E%E6%9D%83%E8%A1%A1%EF%BC%88hexo%E6%A0%BC%E5%BC%8F%E8%AE%BE%E7%BD%AE%E8%AF%95%E7%82%B9%EF%BC%89/</id>
         <title>明回顾：矛盾与权衡（hexo格式设置试点)</title>
-        <link rel="alternate" href="http://example.com/2024/06/15/%E6%98%8E%E5%9B%9E%E9%A1%BE%EF%BC%9A%E7%9F%9B%E7%9B%BE%E4%B8%8E%E6%9D%83%E8%A1%A1%EF%BC%88hexo%E6%A0%BC%E5%BC%8F%E8%AE%BE%E7%BD%AE%E8%AF%95%E7%82%B9%EF%BC%89/"/>
+        <link rel="alternate" href="http://example.com/2024/06/15/History/%E6%98%8E%E5%9B%9E%E9%A1%BE%EF%BC%9A%E7%9F%9B%E7%9B%BE%E4%B8%8E%E6%9D%83%E8%A1%A1%EF%BC%88hexo%E6%A0%BC%E5%BC%8F%E8%AE%BE%E7%BD%AE%E8%AF%95%E7%82%B9%EF%BC%89/"/>
         <content type="html">&lt;h1 id=&#34;明回顾矛盾与权衡&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#明回顾矛盾与权衡&#34;&gt;#&lt;/a&gt; 明回顾：矛盾与权衡&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;本文并不完整且部分观点不正确，仅供测试使用&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;明代横跨两百余年，承接宋元的同时，为清朝的饱受争议埋下伏笔。明朝是一个矛盾的朝代。集权与分权的矛盾，开放与保守的僵持，利益与立场的抉择，内乱与外患的纠缠，种种矛盾使得明朝在制衡与抉择中和历史大势擦肩而过。&lt;/strong&gt;&lt;/p&gt;
